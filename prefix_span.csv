@@ -1,0 +1,35 @@
+sequence,freq
+"Computer Vision, images, fundus",6
+"Machine Learning, performa, algoritma",4
+"Computer Vision,  optic disc, exudates",3
+"Machine Learning, performa, evaluasi, algoritma",3
+"Computer Vision, segmentation, disc, optic",3
+"Computer Vision, segmentation, optic",3
+"Machine Learning, evaluasi, algoritma",3
+"Machine Learning, performa, evaluasi",3
+"Pendidikan, tingkat, terampil",3
+"Computer Vision, segmentation,  optic disc",3
+"images, fundus, colour",3
+"images, fundus, detection",3
+"images, fundus, exudates",3
+"images, fundus, retinal",3
+"images, fundus, segmentation",3
+"performa, evaluasi, algoritma",3
+"Computer Vision, segmentation, disc",3
+"Computer Vision, images, segmentation",3
+"Computer Vision, disc, optic",3
+"Computer Vision, images, retinal",3
+"Computer Vision, images, fundus, segmentation",3
+"Computer Vision, images, fundus, retinal",3
+"Computer Vision, images, fundus, exudates",3
+"Computer Vision, images, fundus, detection",3
+"Computer Vision, images, fundus, colour",3
+"Computer Vision, images, exudates",3
+"Computer Vision, images, detection",3
+"Computer Vision, images, colour",3
+"Computer Vision, fundus, segmentation",3
+"Computer Vision, fundus, retinal",3
+"Computer Vision, fundus, exudates",3
+"Computer Vision, fundus, detection",3
+"Computer Vision, fundus, colour",3
+"segmentation, disc, optic",3
