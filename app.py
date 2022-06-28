@@ -115,7 +115,7 @@ if file is not None:
         data = data[data['Tahun']==thn[0]]
 
     txt = st.sidebar.text_area('Hapus Teks', 
-    '''bengkulu, and, of, on, in, based, the, to, indonesia, thailand, from, for, berbasis''')
+    '''bengkulu, and, of, on, in, based, the, to, indonesia, thailand, from, for, berbasis, muara bangkahulu, kota, di, untuk, sungai serut, sawah lebar, kandang limun, lempuing ''')
 
     ms = st.sidebar.slider("PrefixSpan - Minimum Frequencies",min_value=2,max_value=25, value=3, step=1)
     mp = st.sidebar.slider("PrefixSpan - Maximum Pattern Length",min_value=1,max_value=25, value=10, step=1)
